@@ -1,0 +1,83 @@
+Code Part 1
+<!DOCTYPE html>
+<html>
+<body>
+
+    <style>
+        table, th, td {
+          border: 1px solid black;
+          border-collapse: collapse;
+        }
+        th, td {
+          padding: 15px;
+          text-align: left;
+        }
+        #t01 {
+          width: 100%;    
+        
+        }
+        </style>
+        </head>
+        <body>
+        <colgroup>
+            <thead>First Heading Try</thead>
+        <h2>First Table</h2>
+        <caption>Money Around The World</caption>
+        
+        <table style="width:100%">
+          <tr>
+            <th rowspan="1">Currency</th>
+            <th colspan="1">Pricing</th> 
+            <th>Rate</th>
+          </tr>
+          <tr>
+            <td>Yen</td>
+            <td>81.49856</td>
+            <td>0.89</td>
+          </tr>
+          <tr>
+            <td>USD</td>
+            <td>143.465</td>
+            <td>1.15</td>
+          </tr>
+          <tr>
+            <td>CAD</td>
+            <td>134.5798</td>
+            <td>1.08</td>
+          </tr>
+        </table>
+        <br>
+    </colgroup>
+    <colgroup>
+        <table id="t01">
+            <thead>Head 2</thead>
+        <h1>Table 1<h/h1>
+        <caption>Playstaions Through the years</caption>
+          <tr>
+            <th colspan="1">Item</th>
+            <th rowspan="1">Pricing</th> 
+            <th>Fact</th>
+          </tr>
+          <tr>
+            <td>Ps5</td>
+            <td>800$</td>
+            <td>Fastest Console to Download Games!</td>
+          </tr>
+          <tr>
+            <td>ps4</td>
+            <td>300-450$</td>
+            <td>My Favourite One is this one,the ps4!</td>
+          </tr>
+          <tr>
+            <td>Ps3</td>
+            <td>100-250$</td>
+            <td>This one is the first one I had!</td>
+          </tr>
+        </colgroup>
+        </table>
+    
+
+
+
+</body>
+</html>

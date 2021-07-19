@@ -1,0 +1,375 @@
+PAGE 1 ANIMAL SITE CODE
+
+<!DOCTYPE html>
+<html>
+<body>
+
+
+
+
+
+    <div class="topnav">
+        <a class="active" href="file:///C:/Users/W0468712/Documents/Darius%20Nauglers%20Work%20Week%201/A5P1.html">ARS Home</a>
+        <a href="file:///C:/Users/W0468712/Documents/Darius%20Nauglers%20Work%20Week%201/A5P2.html">Join Us</a>
+        <a href="file:///C:/Users/W0468712/Documents/Darius%20Nauglers%20Work%20Week%201/A5P3.html">Re-home a Dog!</a>
+        <a href="file:///C:/Users/W0468712/Documents/Darius%20Nauglers%20Work%20Week%201/A5P4.html">Re-home a Cat!</a>
+        <a href="file:///C:/Users/W0468712/Documents/Darius%20Nauglers%20Work%20Week%201/A5P5.html">Re-home a Parrot!</a>
+        <input type="text" placeholder="Search..">
+      </div>
+      <head>
+        <style>
+        img {
+          border: 2px solid green;
+        }
+        </style>
+        </head>
+      <header><img src="https://i.ibb.co/VCnZ4cP/ARSLogo.png" alt="DogLogo" width="400" height="400"></header>
+      <body>
+        <head>
+            <style>
+            body {
+              background-image: url('https://i.ibb.co/YP3rQDb/Animal-Background.jpg');
+              background-repeat: no-repeat;
+              background-attachment: fixed; 
+              background-size: 100% 100%;
+            }
+            </style>
+            </head>
+            <body>
+
+                <section><img src="https://i.ibb.co/61MzHhN/watermarkme.png" alt="MadeByDarius" width="200" height="200"></section>
+
+                <img src="https://i.ibb.co/vDKBFh1/ANIMALRESCUE.png" alt="AnimalRescueSafety" width="500" height="150">
+</body>
+</html>
+
+PAGE 2 
+
+!DOCTYPE html>
+<html>
+<body style="background-color:white;">
+
+    <body>
+        <head>
+            <style>
+            body {
+              background-image: url('https://i.ibb.co/YP3rQDb/Animal-Background.jpg');
+              background-repeat: no-repeat;
+              background-attachment: fixed; 
+              background-size: 100% 100%;
+            }
+            </style>
+            </head>
+            <body>
+
+
+    <div class="topnav">
+        <a class="active" href="file:///C:/Users/W0468712/Documents/Darius%20Nauglers%20Work%20Week%201/A5P1.html">ARS Home</a>
+        <a href="file:///C:/Users/W0468712/Documents/Darius%20Nauglers%20Work%20Week%201/A5P2.html">Join Us</a>
+        <a href="file:///C:/Users/W0468712/Documents/Darius%20Nauglers%20Work%20Week%201/A5P3.html">Re-home a Dog!</a>
+        <a href="file:///C:/Users/W0468712/Documents/Darius%20Nauglers%20Work%20Week%201/A5P4.html">Re-home a Cat!</a>
+        <a href="file:///C:/Users/W0468712/Documents/Darius%20Nauglers%20Work%20Week%201/A5P5.html">Re-home a Parrot!</a>
+        <input type="text" placeholder="Search..">
+      </div>
+    
+      <img src="https://i.ibb.co/VCnZ4cP/ARSLogo.png" alt="DogLogo" width="400" height="400">
+      <section><img src="https://i.ibb.co/61MzHhN/watermarkme.png" alt="MadeByDarius" width="200" height="200"></section>
+
+      <head>
+        <style>
+        img {
+          border: 2px solid green;
+        }
+        </style>
+        </head>
+     
+   
+      <head>
+        <style>
+        p {
+          border: 2px solid green;
+        }
+        </style>
+        </head>
+
+      <p style="font-family:verdana;">Drop by our shelters, thrift stores or provincial office and make your donation in-person
+        Make a gift of securities  (stocks, bonds and mutual funds)
+        Mail your gift to:
+        Nova Scotia SPCA
+        PO Box 38073 STN Burnside
+        Dartmouth, NS
+        B3B 1X2
+        Cheques can be made out to  Nova Scotia SPCA
+        Plan and host a fundraiser or event
+        Pick up the top-needed supplies on our shelter wish list
+        Give us a call at 1-844-835-4798 or e-mail info@spcans.ca for assistance with making your gift.  We would love to help you!
+        </p>
+
+
+      <body style="background-color:white;">
+</html>
+
+PAGE 3
+
+<!DOCTYPE html>
+<html>
+    <body style="background-color:#57f7ea;">
+
+
+
+    <head>
+        <style>
+        img {
+          border: 2px solid green;
+        }
+        </style>
+        </head>
+       
+
+        <head>
+            <style>
+            p {
+              border: 2px solid green;
+            }
+            </style>
+            </head>
+           
+    <div class="topnav">
+        <a class="active" href="file:///C:/Users/W0468712/Documents/Darius%20Nauglers%20Work%20Week%201/A5P1.html">ARS Home</a>
+        <a href="file:///C:/Users/W0468712/Documents/Darius%20Nauglers%20Work%20Week%201/A5P2.html">Join Us</a>
+        <a href="file:///C:/Users/W0468712/Documents/Darius%20Nauglers%20Work%20Week%201/A5P3.html">Re-home a Dog!</a>
+        <a href="file:///C:/Users/W0468712/Documents/Darius%20Nauglers%20Work%20Week%201/A5P4.html">Re-home a Cat!</a>
+        <a href="file:///C:/Users/W0468712/Documents/Darius%20Nauglers%20Work%20Week%201/A5P5.html">Re-home a Parrot!</a>
+        <input type="text" placeholder="Search..">
+      </div>
+
+      <img src="https://i.ibb.co/VCnZ4cP/ARSLogo.png" alt="DogLogo" width="400" height="400">
+      <section><img src="https://i.ibb.co/61MzHhN/watermarkme.png" alt="MadeByDarius" width="200" height="200"></section>
+
+      <img src="https://i.ibb.co/jHQqyyV/Golden-Doodle1.jpg" alt="DogLogo" width="400" height="400">
+      <p> This dog in the image is called a Golden Doodle once its fully grown it can be 14-20kg and its height can range from 56-66 cm its also very intelligent and friendly img link:https://imgbb.com/</p>
+      <img src="https://i.ibb.co/rkFXwdr/husky1.jpg" alt="DogLogo" width="400" height="400">
+    <p>This dog in the image is called a Husky They originated from Russia and have a life span to 12-14 years and are omnivores img link:https://imgbb.com/  </p>
+      <img src="https://i.ibb.co/QkNbWVh/German-Shepherd-Facts.jpg" alt="DogLogo" width="400" height="400">
+     <p>The dog in this photo is called a German Shepard its life span is 9-13 years and its an omnivore and can grow up to 55-65cm img link:https://imgbb.com/</p>
+      <img src="https://i.ibb.co/d5WqmnN/R.jpg" alt="DogLogo" width="400" height="400">
+     <p>This dog in the image is called a Pomeranian its life span is 12-16 years and its height can range around 20-36 cm and they originated from the artic region img link:https://imgbb.com/  </p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+<a href="https://www.wikihow.pet/Take-Care-of-a-Dog#:~:text=%20Caring%20For%20the%20Health%20of%20a%20Dog,regularly%20with%20basic%20worming%20against%20roundworms.%20More%20">How to Properly Care For your dog!</a>
+
+<body style="background-color:#57f7ea;">
+</html>
+
+PAGE 4
+
+<!DOCTYPE html>
+<html>
+    <body style="background-color:#77e00d;">
+
+
+    <head>
+        <style>
+        img {
+          border: 2px solid green;
+        }
+        </style>
+        </head>
+        <head>
+            <style>
+            p {
+              border: 2px solid green;
+            }
+            </style>
+            </head>
+           
+
+    <div class="topnav">
+        <a class="active" href="file:///C:/Users/W0468712/Documents/Darius%20Nauglers%20Work%20Week%201/A5P1.html">ARS Home</a>
+        <a href="file:///C:/Users/W0468712/Documents/Darius%20Nauglers%20Work%20Week%201/A5P2.html">Join Us</a>
+        <a href="file:///C:/Users/W0468712/Documents/Darius%20Nauglers%20Work%20Week%201/A5P3.html">Re-home a Dog!</a>
+        <a href="file:///C:/Users/W0468712/Documents/Darius%20Nauglers%20Work%20Week%201/A5P4.html">Re-home a Cat!</a>
+        <a href="file:///C:/Users/W0468712/Documents/Darius%20Nauglers%20Work%20Week%201/A5P5.html">Re-home a Parrot!</a>
+        <input type="text" placeholder="Search..">
+      </div>
+       
+      <img src="https://i.ibb.co/VCnZ4cP/ARSLogo.png" alt="DogLogo" width="400" height="400">
+      <section><img src="https://i.ibb.co/61MzHhN/watermarkme.png" alt="MadeByDarius" width="200" height="200"></section>
+      <img src="https://i.ibb.co/wY4NzgN/breed-information-persian-x2.jpg" alt="catLogo" width="400" height="400">
+      <p>The cat in this image is called a Persian Cat its lifespan is 12-17 years it height ranges from 20-25cm and one of the most low-maintenance and freindlest cat breeds! IMG link: https://imgbb.com/</p>
+      <img src="https://i.ibb.co/PzzF6xC/siamese-cat-1.jpg" alt="siamese-cat-1" alt="catLogo" width="400" height="400">
+    <p>The cat in this image is called a Siamese cat its Lifespan is 8-12 years it can range around 20-25cm and hundreds of years ago were treasured by royal families in Thailand IMG link: https://imgbb.com/</p>
+      <img src="https://i.ibb.co/Q8FW6mk/R-1.jpg" alt="catLogo" width="400" height="400">
+<p>This cat is called a Scottish Fold and its lifespan is 9-12 years can be as tall from 20-25 cm and it likes to lay on its back! IMG link: https://imgbb.com/ </p>
+      <img src="https://i.ibb.co/z8sMhNc/R-2.jpg" alt="catLogo" width="400" height="400">
+<p>This cat is called a Munchkin cat its lifepspan is 12-15 years and can be as tall as 17.7 to 20.3cm it has very short legs and is fast IMG link: https://imgbb.com/</p>
+
+
+<a href="https://www.wikihow.com/Take-Care-of-a-Cat#:~:text=%20How%20to%20Take%20Care%20of%20a%20Cat,cat.%20Kittens%20are%20adorably%20tempting%2C%20but...%20More%20">How To Care For a Cat!</a>
+
+
+<body style="background-color:#77e00d;">
+</html>
+
+PAGE 5
+
+<!DOCTYPE html>
+<html>
+<body>
+
+  
+    <head>
+        <style>
+        img {
+          border: 2px solid green;
+        }
+        </style>
+        </head>
+        <head>
+            <style>
+            p {
+              border: 2px solid green;
+            }
+            </style>
+            </head>
+           
+        <body>
+            <head>
+                <style>
+                body {
+                  background-image: url('https://i.ibb.co/YP3rQDb/Animal-Background.jpg');
+                  background-repeat: no-repeat;
+                  background-attachment: fixed; 
+                  background-size: 100% 100%;
+                }
+                </style>
+                </head>
+                <body>
+
+    <div class="topnav">
+        <a class="active" href="file:///C:/Users/W0468712/Documents/Darius%20Nauglers%20Work%20Week%201/A5P1.html">ARS Home</a>
+        <a href="file:///C:/Users/W0468712/Documents/Darius%20Nauglers%20Work%20Week%201/A5P2.html">Join Us</a>
+        <a href="file:///C:/Users/W0468712/Documents/Darius%20Nauglers%20Work%20Week%201/A5P3.html">Re-home a Dog!</a>
+        <a href="file:///C:/Users/W0468712/Documents/Darius%20Nauglers%20Work%20Week%201/A5P4.html">Re-home a Cat!</a>
+        <a href="file:///C:/Users/W0468712/Documents/Darius%20Nauglers%20Work%20Week%201/A5P5.html">Re-home a Parrot!</a>
+        <input type="text" placeholder="Search..">
+      </div>
+       
+ 
+
+
+
+
+
+      <img src="https://i.ibb.co/VCnZ4cP/ARSLogo.png" alt="DogLogo" width="400" height="400">
+      <section><img src="https://i.ibb.co/61MzHhN/watermarkme.png" alt="MadeByDarius" width="200" height="200"></section>
+
+      <img src="https://i.ibb.co/s5b2Z1q/Save-APARROT.png" alt="catLogo" width="800" height="500">
+      <p>SAVE A PARROT TODAY SIGN UP AND HAVE A REGISTERED FEE OF 15 CENTS A DAY TO SAVE A PARROT AND PUT IT BACK IN ITS HOME (THE RAINFOREST)</p>
+      
+      <head>
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <style>
+        body {
+          font-family: Arial, Helvetica, sans-serif;
+          background-color: black;
+        }
+        
+        * {
+          box-sizing: border-box;
+        }
+        
+        /* Add padding to containers */
+        .container {
+          padding: 16px;
+          background-color: white;
+        }
+        
+        /* Full-width input fields */
+        input[type=text], input[type=password] {
+          width: 100%;
+          padding: 15px;
+          margin: 5px 0 22px 0;
+          display: inline-block;
+          border: none;
+          background: #f1f1f1;
+        }
+        
+        input[type=text]:focus, input[type=password]:focus {
+          background-color: #ddd;
+          outline: none;
+        }
+        
+        /* Overwrite default styles of hr */
+        hr {
+          border: 1px solid #f1f1f1;
+          margin-bottom: 25px;
+        }
+        
+        /* Set a style for the submit button */
+        .registerbtn {
+          background-color: #04AA6D;
+          color: white;
+          padding: 16px 20px;
+          margin: 8px 0;
+          border: none;
+          cursor: pointer;
+          width: 100%;
+          opacity: 0.9;
+        }
+        
+        .registerbtn:hover {
+          opacity: 1;
+        }
+        
+        /* Add a blue text color to links */
+        a {
+          color: dodgerblue;
+        }
+        
+        /* Set a grey background color and center the text of the "sign in" section */
+        .signin {
+          background-color: #f1f1f1;
+          text-align: center;
+        }
+        </style>
+        </head>
+        <body>
+        
+        <form action="/action_page.php">
+          <div class="container">
+            <h1>Register</h1>
+            <p>Please fill in this form to create an account.</p>
+            <hr>
+        
+            <label for="email"><b>Email</b></label>
+            <input type="text" placeholder="Enter Email" name="email" id="email" required>
+        
+            <label for="psw"><b>Password</b></label>
+            <input type="password" placeholder="Enter Password" name="psw" id="psw" required>
+        
+            <label for="psw-repeat"><b>Repeat Password</b></label>
+            <input type="password" placeholder="Repeat Password" name="psw-repeat" id="psw-repeat" required>
+            <hr>
+            <p>By creating an account you agree to our <a href="#">Terms & Privacy</a>.</p>
+        
+            <button type="submit" class="registerbtn">Register</button>
+          </div>
+          
+
+
+<a href="( https://www.novascotiaspca.ca/">Help Animals Today!</a>
+
+</body>
+</html>

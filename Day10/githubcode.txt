@@ -1,0 +1,34 @@
+   <!DOCTYPE html>
+    <html>
+    <body>
+    <p>My github links are not done yet because Im having issues with github</p>
+<h1>Darius's Github Menu</Menu></h1>
+    <br>
+<a href="url">Day 1</a>
+<br>
+<a href="url">Day 2</a>
+<br>
+<a href="url">Day 3</a>
+<br>
+<a href="url">Day 4</a>
+<br>
+<a href="url">Day 5</a>
+<br>
+<a href="url">Day 6</a>
+<br>
+<a href="url">Day 7</a>
+<br>
+<a href="url">Day 8</a>
+<br>
+<a href="url">Day 9</a>
+<br>
+<a href="url">Day 10</a>
+
+
+<br>
+<a href="file:///C:/Users/W0468712/Documents/Darius%20Nauglers%20Work%20Week%201/AA1.html">back</a>
+
+    </body>
+    </html>
+
+
